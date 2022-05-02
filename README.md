@@ -4,7 +4,7 @@ Benvenuto nella [Guida alle quest di Elden Ring](https://github.com/IlSignorMast
 
 ATTENZIONE: La guida è in italiano, ma i nomi di oggetti, luoghi di grazia e regioni dell'Interregno sono in inglese
 
-Nella guida sono presenti per tutti i personaggi e luoghi link che portano direttamente alle informazioni della wiki di Elden Ring o alla mappa interattiva
+Nella guida sono presenti per tutti i personaggi e luoghi link che portano direttamente alle informazioni della [wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki) di Elden Ring o alla [mappa interattiva](https://eldenring.wiki.fextralife.com/Interactive+Map)
 
 Tutte le informazioni su quest, personaggi e progresso di gioco sono state estrapolate dalla [wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
 
