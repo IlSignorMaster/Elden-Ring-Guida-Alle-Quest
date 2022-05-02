@@ -6,4 +6,6 @@ ATTENZIONE: La guida è in italiano, ma i nomi di oggetti, luoghi di grazia e re
 
 Nella guida sono presenti per tutti i personaggi e luoghi link che portano direttamente alle informazioni della wiki di Elden Ring o alla mappa interattiva
 
+Tutte le informazioni su quest, personaggi e progresso di gioco sono state estrapolate dalla [wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
+
 Adattato per [Sabaku_no_Sutoriimaa](https://www.twitch.tv/sabaku_no_sutoriimaa)
