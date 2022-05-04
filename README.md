@@ -1,6 +1,8 @@
 # Elden Ring: Guida alle quest
 
-Benvenuto nella [Guida alle quest di Elden Ring](https://github.com/IlSignorMaster/Elden-Ring-Guida-Alle-Quest/wiki)
+Benvenuto nella Guida alle quest di Elden Ring
+
+[Clicca qui](https://github.com/IlSignorMaster/Elden-Ring-Guida-Alle-Quest/wiki) per accedere alla guida
 
 ATTENZIONE: La guida è in italiano, ma i nomi di oggetti, luoghi di grazia e regioni dell'Interregno sono in inglese
 
