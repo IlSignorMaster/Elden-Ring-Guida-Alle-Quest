@@ -1,7 +1,5 @@
 # Elden Ring: Guida alle quest
 
-### ATTENZIONE: La quest di Tanith non è ancora disponibile e sarà aggiunta il prima possibile
-
 Benvenuto nella Guida alle quest di Elden Ring
 
 [Clicca qui](https://github.com/IlSignorMaster/Elden-Ring-Guida-Alle-Quest/wiki) per accedere alla guida
