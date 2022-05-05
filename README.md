@@ -1,6 +1,6 @@
 # Elden Ring: Guida alle quest
 
-### ATTENZIONE: Le quest di Rogier, Diallos e Tanith non sono ancora disponibili e varranno aggiunte il prima possibile
+### ATTENZIONE: La quest di Tanith non è ancora disponibili e sarà aggiunta il prima possibile
 
 Benvenuto nella Guida alle quest di Elden Ring
 
