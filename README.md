@@ -1,6 +1,6 @@
 # Elden Ring: Guida alle quest
 
-### ATTENZIONE: Le quest di Rya, Dung Eater, Millicent, Boggart, Latenna, Ensha, Rogier, Diallos e Tanith non sono ancora disponibili e varranno aggiunte il prima possibile
+### ATTENZIONE: Le quest di Rogier, Diallos e Tanith non sono ancora disponibili e varranno aggiunte il prima possibile
 
 Benvenuto nella Guida alle quest di Elden Ring
 
