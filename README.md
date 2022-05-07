@@ -10,4 +10,4 @@ Nella guida sono presenti per tutti i personaggi e luoghi link che portano diret
 
 Tutte le informazioni su quest, personaggi e progresso di gioco sono state estrapolate dalla [wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
 
-Adattato per [Sabaku_no_Sutoriimaa](https://www.twitch.tv/sabaku_no_sutoriimaa) e per la community di [Sabaku no Maiku](https://www.youtube.com/channel/UCuKweXt85_48rxbd94Un3oQ)
+Adattato per [Sabaku_no_Sutoriimaa](https://www.twitch.tv/sabaku_no_sutoriimaa) e per la sua community
